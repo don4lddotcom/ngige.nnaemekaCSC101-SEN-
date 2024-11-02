@@ -30,4 +30,4 @@ fn main() {
 
     println!("The total sum of the sales amounts is: N{:.2}", total_sum);
     println!("The average of the sales amounts is: N{:.2}", average);
-}
+} 

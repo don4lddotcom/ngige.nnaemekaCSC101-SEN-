@@ -10,5 +10,4 @@ fn main() {
 	println!("amount is {}",a);
 	println!("compound interest is {}",ci);
 
-
 }
