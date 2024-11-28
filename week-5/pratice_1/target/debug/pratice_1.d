@@ -1,0 +1,1 @@
+/Users/ngigedonald/Desktop/Data\ Science/CSC\ 101/ngige.nnaemekaCSC101-SEN-/week-5/pratice_1/target/debug/pratice_1: /Users/ngigedonald/Desktop/Data\ Science/CSC\ 101/ngige.nnaemekaCSC101-SEN-/week-5/pratice_1/src/main.rs
